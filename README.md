@@ -1,24 +1,25 @@
-# Celestial Bodies Database
-#### Open [file `solution.txt`](solution.txt) To follow my terminal command. Solutions divided into several steps :
+# Celestial Bodies Database by **Dev-Octavio**
+#### follow the instructions below to complete the next challenge :
     1. Create database and connect to it.
     2. Create tables as required conditions.
     3. Fill the tables as required data conditions.
     4. Primary Key and Foreign Key assignment.
     5. Compact queries into universe.sql file.
 
-Find here the instructions for star building the project
+Find here the instructions for **start** building your project
 [https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
 
 ## Instructions
-`psql --username=freecodecamp --dbname=postgres` For start the postgres you should login on the server using the bellow command
+## For start the postgres you should login on the server using the bellow command
+**`psql --username=freecodecamp --dbname=postgres` **
 
-**After you connect you should create a universe database** 😄
+**After you connected you should create a universe database** 😄
 
-`CREATE DATABASE universe` and press Enter.
+**`CREATE DATABASE universe`** and press Enter.
 
-After create the data base the next is connect our database pls type 
+After create the data base **universe** the next is connect our database pls type 
 
-`\c universe`
+**`\c universe`**
 
 Here's some ideas for other column and table names: `description`, `has_life`, `is_spherical`, `age_in_millions_of_years`, `planet_types`, `galaxy_types`, `distance_from_earth`.
 
