@@ -1,4 +1,6 @@
-# Celestial Bodies Database by **Dev-Octavio**
+# Celestial Database 
+by 
+**Dev-Octavio**
 #### follow the instructions below to complete the next challenge :
     1. Create database and connect to it.
     2. Create tables as required conditions.
@@ -11,7 +13,7 @@ Find here the instructions for **start** building your project
 
 ## Instructions
 ## For start the postgres you should login on the server using the bellow command
-**`psql --username=freecodecamp --dbname=postgres` **
+**`psql --username=freecodecamp --dbname=postgres`**
 
 **After you connected you should create a universe database** 😄
 
